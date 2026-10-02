@@ -11,3 +11,6 @@ Base: https://eduardoschuman-glitch.github.io/luanafelinto-midia/
 | videos/lisa-o-ano-todo.mp4 | Vídeo completo do Lisa o Ano Todo, com áudio (53 s) |
 | posters/*.jpg | Imagem que aparece antes do vídeo carregar |
 | assets/logo-*.png, logo-vetor.svg | Logos da clínica |
+| fotos/procedimento/laser-1..5.jpg | Fotos do procedimento (sessão de fotos FEV2024), 1067x1600 |
+| fotos/aparelho/aparelho-1..4.jpg | Aparelho de laser em fundo branco, 1000x1000 |
+| fotos/aparelho/aparelho-em-uso.jpg | Aparelho em uso na clínica, 1000x1000 |
