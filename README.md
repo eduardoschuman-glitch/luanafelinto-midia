@@ -14,3 +14,4 @@ Base: https://eduardoschuman-glitch.github.io/luanafelinto-midia/
 | fotos/procedimento/laser-1..5.jpg | Fotos do procedimento (sessão de fotos FEV2024), 1067x1600 |
 | fotos/aparelho/aparelho-1..4.jpg | Aparelho de laser em fundo branco, 1000x1000 |
 | fotos/aparelho/aparelho-em-uso.jpg | Aparelho em uso na clínica, 1000x1000 |
+| fotos/provisorio/antes-depois-*.jpg | PROVISÓRIO. Simulações geradas por IA, com marca "Simulação ilustrativa", só para apresentar o layout à Luana. Trocar por fotos reais autorizadas antes de publicar a página |
